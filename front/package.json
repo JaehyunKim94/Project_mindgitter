@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "apexcharts": "^3.19.0",
-    "aws-sdk": "^2.662.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
     "es6-promisify": "^6.1.0",
